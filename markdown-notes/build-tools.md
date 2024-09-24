@@ -3,4 +3,4 @@ Raw HTML is a simple kind of "language" that lets you write code that is read di
 [^1]: Any HTML file can be run by opening it. This doesn't mean you should.
 [^2]: Bundler is a more outdated term, but it will still creep up from time to time.
 
-There are lot of build tools available for use such as Webpack, Vite, Gulp, Parcel, and more. Webpack stands as one of the most popular build tools, but
+There are lot of build tools available for use such as Webpack, Vite, Gulp, Parcel, and more. Webpack stands as one of the most popular build tools, but these notes are going to focus on Vite.
